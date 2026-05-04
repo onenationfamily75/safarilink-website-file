@@ -1,14 +1,7 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /private/
-Disallow: /*.json$
 
-# Google
 User-agent: Googlebot
 Allow: /
 
-# Sitemap — paste this URL into Google Search Console > Sitemaps
-Sitemap: https://flysafarilinkairline.com/sitemap.xml
-
-Crawl-delay: 3
+Sitemap: https://flysafarilinkairline.online/sitemap.xml
